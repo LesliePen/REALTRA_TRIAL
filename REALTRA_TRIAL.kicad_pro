@@ -991,7 +991,7 @@
       "version": 1
     },
     "net_format_name": "KiCad",
-    "page_layout_descr_file": "Templates/KDT_Template_GIT.kicad_wks",
+    "page_layout_descr_file": "kicad-embed://KDT_Template_PCB_A3.kicad_wks",
     "plot_directory": "Schematic/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -1018,11 +1018,11 @@
     ],
     [
       "f06537ee-772d-44d3-8c50-e0ba41038c9c",
-      "Section A - Title A"
+      "Section A - Connectors"
     ],
     [
       "e744f3ce-03a6-44a6-8792-1447ef232b9a",
-      "Section B - Title B"
+      "Section B - Arduino Mega"
     ],
     [
       "5fb05893-0da3-4f58-a52b-cb6d6f4cb80b",
