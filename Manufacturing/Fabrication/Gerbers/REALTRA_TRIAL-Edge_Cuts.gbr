@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6+1*%
+%TF.CreationDate,Date%
+%TF.ProjectId,REALTRA_TRIAL,5245414c-5452-4415-9f54-5249414c2e6b,+ (Unreleased)*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.150000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X50000000Y-50000000D02*
+X370000000Y-50000000D01*
+X370000000Y-200000000D01*
+X50000000Y-200000000D01*
+X50000000Y-50000000D01*
+M02*
